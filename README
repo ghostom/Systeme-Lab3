@@ -1,1 +1,18 @@
 One two one two this is a test. 
+
+*********************************
+
+TUTO GITHUB
+
+*********************************
+
+
+Ajouter un fichier au repository 
+>>git add nom_fichier
+
+on met a jour 
+>>git commit -a -m "description_modification"
+
+on envoie sur le site github
+>>git push origin master
+
