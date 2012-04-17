@@ -14,7 +14,7 @@ int main(){
 	string fichierDD = "HD.DH";
 	hardDrive monDD(fichierDD);
 	
-	monDD.afficheHD();mnbm
+	monDD.afficheHD();
 	
 	return 0;
 }
